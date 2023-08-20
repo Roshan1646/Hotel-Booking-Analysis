@@ -2,6 +2,7 @@
 
 The Hotel Booking Analysis project aims to analyze and gain insights from a dataset containing hotel booking information. The dataset includes details such as guest demographics, booking patterns, length of stay, market segments, room types, cancellations, revenue generation, and more. The goal is to understand guest behavior, identify trends, optimize revenue, and improve overall hotel management strategies.
 ## Objectives:
+
 # Booking Patterns: Analyze the distribution of booking dates (arrival_date_week_number and arrival_date_day_of_month) to identify booking trends and peak seasons. Understand which months or days are most popular for bookings.
 
 #Length of Stay: Examine the distribution of stays_in_weekend_nights and stays_in_week_nights to understand how long guests typically stay. Identify patterns for different types of guests.
